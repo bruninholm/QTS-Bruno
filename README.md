@@ -4,7 +4,7 @@ Repositório para atividades de QTS no 3 Bimestre
 -=Safe Hacking=-
 -
 	-Página Inicial e página de créditos, página inicial deve apresentar informações sobre o conteúdo do site, meios de reportar problemas, botões onde será possível mudar para a página de “créditos” e página de “login”; página de créditos deve apresentar informações sobre os criadores, contato, meios de reportar problemas e botões onde será possível mudar para a página “inicial” e página de “login”:
--
+
 
 	Narrativa:
 	- Como botão de “créditos”, "página inicial” ou “Login”
@@ -39,9 +39,8 @@ Narrativa:
 	- Como Cadastro
 	- Eu quero criar uma conta
 	- Assim deverá ser enviado para a página de Usuário quando finalizado
--
 
-	- Cenário 1: Cliente com dados corretos
+		- Cenário 1: Cliente com dados corretos
 - Dado que deseja criar uma conta
 - E informou Nome
 - E informou Email
