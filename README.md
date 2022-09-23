@@ -35,11 +35,11 @@ Cenário 2: Cliente com dados já cadastrado e com dados incorretos
 ________________________________________
 
 Narrativa:
-	Como Cadastro
-	Eu quero criar uma conta
-	Assim deverá ser enviado para a página de Usuário quando finalizado
-
-	Cenário 1: Cliente com dados corretos
+	- Como Cadastro
+	- Eu quero criar uma conta
+	- Assim deverá ser enviado para a página de Usuário quando finalizado
+-
+	- Cenário 1: Cliente com dados corretos
 - Dado que deseja criar uma conta
 - E informou Nome
 - E informou Email
