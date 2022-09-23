@@ -40,7 +40,8 @@ Narrativa:
 	- Eu quero criar uma conta
 	- Assim deverá ser enviado para a página de Usuário quando finalizado
 
-- Cenário 1: Cliente com dados corretos
+Cenário 1: Cliente com dados corretos
+
 - Dado que deseja criar uma conta
 - E informou Nome
 - E informou Email
@@ -50,7 +51,7 @@ Narrativa:
 - Então deve-se criar à conta
 - E ser redirecionado para página de Usuário
 
-- Cenário 2: Cliente com dados incorretos
+Cenário 2: Cliente com dados incorretos
 
 - Dado que deseja criar uma conta
 - E informou Nome 
