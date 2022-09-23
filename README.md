@@ -17,7 +17,8 @@ ________________________________________
 	- Eu quero entrar com a conta
 	- Assim deverá ser enviado para a página principal quando finalizado
  
-Cenário 1: Cliente com dados já cadastrado e com dados corretos
+ 
+ Cenário 1: Cliente com dados já cadastrado e com dados corretos
 
 - Dado que deseja logar na sua conta
 - E informou Email
