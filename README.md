@@ -17,7 +17,8 @@ ________________________________________
 	- Eu quero entrar com a conta
 	- Assim deverá ser enviado para a página principal quando finalizado
  
-- Cenário 1: Cliente com dados já cadastrado e com dados corretos
+Cenário 1: Cliente com dados já cadastrado e com dados corretos
+
 - Dado que deseja logar na sua conta
 - E informou Email
 - E informou Senha
@@ -25,7 +26,8 @@ ________________________________________
 - Então deve-se conectar à conta
 - E ser redirecionado para página principal
 
-- Cenário 2: Cliente com dados já cadastrado e com dados incorretos
+Cenário 2: Cliente com dados já cadastrado e com dados incorretos
+
 - Dado que deseja logar na sua conta
 - E informou Email incorreta
 - E/ou informou Senha incorreta
