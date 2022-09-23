@@ -11,15 +11,17 @@ Repositório para atividades de QTS no 3 Bimestre
 	Assim que clicar no botão respectivo
 ________________________________________
 
-	Narrativa:
-	Como Login
-	Eu quero entrar com a conta
-	Assim deverá ser enviado para a página principal quando finalizado
+	- Narrativa:
+	- Como Login
+	- Eu quero entrar com a conta
+	- Assim deverá ser enviado para a página principal quando finalizado
  
 Cenário 1: Cliente com dados já cadastrado e com dados corretos
 Dado que deseja logar na sua conta
-E informou Email
-E informou Senha
+-
+
+- E informou Email
+- E informou Senha
 Quando entrar com essas informações no login
 Então deve-se conectar à conta
 E ser redirecionado para página principal
